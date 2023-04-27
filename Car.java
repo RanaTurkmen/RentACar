@@ -6,3 +6,4 @@
 
 
 //bazı kodlar yazdım
+//dene
