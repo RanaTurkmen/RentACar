@@ -7,3 +7,4 @@
 
 //bazı kodlar yazdım
 //dene
+//car pull deniyoruz.
